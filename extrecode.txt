@@ -1,0 +1,15 @@
+<!-- Content Alert -->
+             <div class="card-body">
+                <div class=" alert alert-warning  alert-dismissible fade show "
+                    role="alert">
+                    <div class="alert-content">
+                        <h6 class="alert-heading">Warning</h6>
+                        <p style="font-style: italic; font-weight: 500;">The study material on this website is collected from students and faculty members of IIIT RK VALLEY.  This is our small effort to meet the shortage of study material for students.<a href="tc.html" style="color: blue; font-style: normal; text-decoration: underline; padding-left: 5px;">Read our terms & conditions</a></p>
+                        <button type="button" class="btn-close text-capitalize"
+                            data-bs-dismiss="alert" aria-label="Close">
+                            <img src="img/svg/x.svg" alt="x" class="svg" aria-hidden="true">
+                        </button>
+                    </div>
+                </div>
+            </div>
+<!-- Content Alert End-->
