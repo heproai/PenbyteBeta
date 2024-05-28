@@ -1,0 +1,151 @@
+{
+    "semOne": [
+      {
+        "name": "Physics",
+        "link": "https://drive.google.com/drive/folders/1quSf-AK7PQpGLm4Fwv5c60KhyYH9fCLK?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "P113",
+        "author": "Sunil"
+      },
+      {
+        "name": "Chemistry",
+        "link": "https://drive.google.com/drive/folders/1fVwFFE0mNs0shQOC7Wk_IbOhfkJsfq-3?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "C114",
+        "author": "Sunil"
+      },
+      {
+        "name": "Telugu",
+        "link": "https://drive.google.com/file/d/1xNhf0B-9X5--FJALajnXz0tlFPPDt67f/view?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "T115",
+        "author": "Sunil"
+      },
+      {
+        "name": "Information Technology (IT)",
+        "link": "https://drive.google.com/drive/folders/1PtE1hxZ4HtaLiVPQTls3exrZ0xwOFr-4?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "IT11",
+        "author": "Sunil"
+      },
+      
+      {
+        "name": "Mathematics",
+        "link": "https://drive.google.com/file/d/1PJ7oHs2KYH2UrJqyd_ifTc8qtTc5obmm/view?usp=drive_link",
+        "status": "",
+        "lastupdate": "2024-02-02",
+        "lu":"",
+        "scode": "M112",
+        "author": "Sunil"
+      },
+      {
+        "name": "Physics Lab",
+        "link": "https://drive.google.com/drive/folders/1elZkTxZX_IZfPE6IR_dfMbXLd5XCd8_0?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "E111",
+        "author": "Sunil"
+      },
+      {
+        "name": "Chemistry Lab",
+        "link": "https://drive.google.com/file/d/1B8CLaBjykI67FIzAij-nZgcMvXKLV-Jy/view?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "E111",
+        "author": "Sunil"
+      },
+      {
+        "name": "Biology",
+        "link": "#",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "B217",
+        "author": "Sunil"
+      }
+    ],
+    "semTwo": [
+      {
+        "name": "Physics",
+        "link": "https://drive.google.com/drive/folders/16qsHWxBaQ2euVVhbotArYgHzSqQWcYrt?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "P223",
+        "author": "Sunil"
+      },
+      {
+        "name": "Chemistry",
+        "link": "https://drive.google.com/drive/folders/1fVwFFE0mNs0shQOC7Wk_IbOhfkJsfq-3?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "C224",
+        "author": "Sunil"
+      },
+      {
+        "name": "Telugu",
+        "link": "https://drive.google.com/drive/folders/1OSX2F2vJnhlw3Nz1veL7LmaeIW4mr9mh?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "T225",
+        "author": "Sunil"
+      },
+      {
+        "name": "Information Technology (IT)",
+        "link": "https://drive.google.com/drive/folders/1yWyRGxHZ4MlEwAI07021A7iVO5F0t4E4?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "I226",
+        "author": "Sunil"
+      },
+      {
+        "name": "Information Technology Lab (ITL)",
+        "link": "https://drive.google.com/drive/folders/193poikpcOIkjPavLfjgDZPMWLTMA3DOS?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "I226",
+        "author": "Sunil"
+      },
+      {
+        "name": "Mathematics",
+        "link": "https://drive.google.com/drive/folders/1eHrPkMxaxabBgEOlXbprw1dwWx7YSJeL?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-02",
+        "lu":"",
+        "scode": "M222",
+        "author": "Sunil"
+      },
+      {
+        "name": "Biology",
+        "link": "#",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "B227",
+        "author": "Sunil"
+      },
+      {
+        "name": "English",
+        "link": "#",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "E221",
+        "author": "Sunil"
+      }
+    ]
+  }
