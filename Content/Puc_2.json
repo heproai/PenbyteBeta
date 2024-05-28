@@ -1,15 +1,6 @@
 {
     "semOne": [
       {
-        "name": "hepro",
-        "link": "#",
-        "status": "",
-        "lastupdate": "2024-02-20",
-        "lu":"",
-        "scode": "E111",
-        "author": "Sunil"
-      },
-      {
         "name": "Physics",
         "link": "https://drive.google.com/drive/folders/1quSf-AK7PQpGLm4Fwv5c60KhyYH9fCLK?usp=sharing",
         "status": "",
@@ -20,7 +11,7 @@
       },
       {
         "name": "Chemistry",
-        "link": "#",
+        "link": "https://drive.google.com/drive/folders/1fVwFFE0mNs0shQOC7Wk_IbOhfkJsfq-3?usp=sharing",
         "status": "",
         "lastupdate": "2024-02-20",
         "lu":"",
@@ -45,15 +36,6 @@
         "scode": "IT11",
         "author": "Sunil"
       },
-      {
-        "name": "Biology",
-        "link": "#",
-        "status": "",
-        "lastupdate": "2024-02-20",
-        "lu":"",
-        "scode": "B217",
-        "author": "Sunil"
-      },
       
       {
         "name": "Mathematics",
@@ -63,18 +45,36 @@
         "lu":"",
         "scode": "M112",
         "author": "Sunil"
-      }
-    ],
-    "semTwo": [
+      },
       {
-        "name": "English",
+        "name": "Physics Lab",
+        "link": "https://drive.google.com/drive/folders/1elZkTxZX_IZfPE6IR_dfMbXLd5XCd8_0?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "E111",
+        "author": "Sunil"
+      },
+      {
+        "name": "Chemistry Lab",
+        "link": "https://drive.google.com/file/d/1B8CLaBjykI67FIzAij-nZgcMvXKLV-Jy/view?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-20",
+        "lu":"",
+        "scode": "E111",
+        "author": "Sunil"
+      },
+      {
+        "name": "Biology",
         "link": "#",
         "status": "",
         "lastupdate": "2024-02-20",
         "lu":"",
-        "scode": "E221",
+        "scode": "B217",
         "author": "Sunil"
-      },
+      }
+    ],
+    "semTwo": [
       {
         "name": "Physics",
         "link": "https://drive.google.com/drive/folders/16qsHWxBaQ2euVVhbotArYgHzSqQWcYrt?usp=sharing",
@@ -121,6 +121,15 @@
         "author": "Sunil"
       },
       {
+        "name": "Mathematics",
+        "link": "https://drive.google.com/drive/folders/1eHrPkMxaxabBgEOlXbprw1dwWx7YSJeL?usp=sharing",
+        "status": "",
+        "lastupdate": "2024-02-02",
+        "lu":"",
+        "scode": "M222",
+        "author": "Sunil"
+      },
+      {
         "name": "Biology",
         "link": "#",
         "status": "",
@@ -130,12 +139,12 @@
         "author": "Sunil"
       },
       {
-        "name": "Mathematics",
-        "link": "https://drive.google.com/drive/folders/1eHrPkMxaxabBgEOlXbprw1dwWx7YSJeL?usp=sharing",
+        "name": "English",
+        "link": "#",
         "status": "",
-        "lastupdate": "2024-02-02",
+        "lastupdate": "2024-02-20",
         "lu":"",
-        "scode": "M222",
+        "scode": "E221",
         "author": "Sunil"
       }
     ]
